@@ -1,42 +1,29 @@
 "use client";
-
-import axios from "axios";
-import { useCallback, useEffect, useState } from "react";
-interface Data {
-  id: string;
-  name: string;
-  lyrics: string;
-  user: {
-    id: string;
-    name: string;
-  };
-}
+import { Indie_Flower } from "next/font/google";
+import useToday from "@/hooks/use-today";
+const caveat = Indie_Flower({
+  subsets: ["latin"],
+  display: "swap",
+  weight: "400",
+});
 
 export default function LyricsContainer() {
-  const [data, setData] = useState<Data[]>([]);
-  const [isLoading, setIsLoading] = useState(true);
-
-  const fetchData = useCallback(async (): Promise<Data[]> => {
-    const params = {
-      // q: writerWatcher,
-    };
-    const response = await axios.get("/api/lyrics", {
-      params,
-    });
-    const data = response.data as Data[];
-    return data;
-  }, []);
-
-  useEffect(() => {
-    fetchData()
-      .then((data) => setData(data))
-      .catch((err) => console.log(err))
-      .finally(() => setIsLoading(false));
-  }, [fetchData]);
+  const { data, isLoading } = useToday();
 
   if (isLoading) {
     return "loading...";
   }
 
-  return <div>{data?.map((item) => item.lyrics)}</div>;
+  return (
+    <div className="relative">
+      <h1 className="pointer-events-none fixed z-0 h-screen text-[30vw] font-semibold text-gray-100 dark:text-gray-800/30">
+        {data?.name}
+      </h1>
+      <p
+        className={`${caveat.className} relative !z-10 whitespace-pre-line text-4xl dark:text-gray-400`}
+      >
+        {data?.lyrics}
+      </p>
+    </div>
+  );
 }

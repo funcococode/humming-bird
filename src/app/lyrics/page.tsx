@@ -23,7 +23,7 @@ export default function LyricsPage() {
   const handleClick = async (data: Fields) => {
     if (data) {
       const response: { data: { message: string; success: boolean } } =
-        await axios.post("/api/lyrics", {
+        await axios.post("/api/lyrics/", {
           writerId: data.writer,
           categoryId: data.category,
           ...data,
@@ -45,7 +45,7 @@ export default function LyricsPage() {
         <Input control={control} name="title" />
         <Input control={control} name="writer" />
         <Input control={control} name="category" />
-        <Textarea control={control} name="Lyrics" className="" />
+        <Textarea control={control} name="lyrics" className="" />
 
         <button
           type="button"

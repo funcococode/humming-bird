@@ -49,7 +49,7 @@ export default function WriterContainer() {
 
   return (
     <div className="space-y-4 rounded-lg border p-5">
-      <div className="flex items-center justify-between">
+      <div className="space-y-4">
         <h1 className="text-xl font-bold">Writers</h1>
         <Input
           control={control}
@@ -59,11 +59,11 @@ export default function WriterContainer() {
           className="bg-gray-50 py-2 text-sm placeholder-gray-400"
         />
       </div>
-      <div className="flex flex-wrap gap-2">
+      <div className="space-y-2">
         {writers.map((item) => (
           <li
             key={item.id}
-            className="w-fit list-none rounded-lg border bg-gray-700 px-5 py-2 text-sm font-medium text-gray-100"
+            className="font-handwritten cursor-pointer list-none text-gray-500 hover:text-gray-800"
           >
             {item.firstname} {item.lastname}
           </li>
