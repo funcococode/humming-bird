@@ -28,7 +28,7 @@ export default function DropdownMenu({
   return (
     <div className="relative !z-[999] flex items-end space-y-2">
       <button
-        className={`${variant === "icon" ? "rounded-full" : "rounded-md pl-3"} flex items-center gap-2 bg-gray-800 p-2 text-lg text-white`}
+        className={`${variant === "icon" ? "rounded-full" : "rounded-md pl-3"} flex items-center gap-2 border bg-gray-800 p-2 text-lg text-white dark:border-gray-600`}
         onClick={() => setIsOpen((prev) => !prev)}
       >
         {variant !== "icon" && label && (
@@ -42,7 +42,7 @@ export default function DropdownMenu({
             <Link
               key={crypto.randomUUID()}
               href={item.url ?? ""}
-              className="flex items-center justify-between px-4 py-2 hover:bg-gray-50 hover:text-indigo-700 dark:bg-gray-900 dark:text-gray-300"
+              className="flex items-center justify-between px-4 py-2 hover:bg-gray-50 dark:bg-gray-900 dark:text-gray-300 dark:hover:bg-gray-800"
             >
               <div className="flex items-center gap-2">
                 {item.icon && item.icon}
