@@ -11,8 +11,7 @@ export async function GET(request: NextRequest) {
   const data = await db.user.findMany({
     select: {
       id: true,
-      firstname: true,
-      lastname: true,
+      name: true,
     },
     where: {
       ...(query && {
@@ -30,7 +29,7 @@ export async function GET(request: NextRequest) {
       }),
     },
   });
-  return NextResponse.json(data);
+  return NextResponse.json({ data, message: "success", success: true });
 }
 
 export async function POST(

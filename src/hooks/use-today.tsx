@@ -1,6 +1,7 @@
 import { type Today } from "@/app/api/today/route";
 import axios, { type AxiosError } from "axios";
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
+import { capitalize } from "lodash";
 
 interface TodayDataReturnType {
   data: Today | null;
@@ -8,10 +9,10 @@ interface TodayDataReturnType {
   success: boolean;
 }
 export async function getTodayData(
-  category = "Poem",
+  category: string,
 ): Promise<TodayDataReturnType> {
   const params = {
-    q: category,
+    q: capitalize(category),
   };
   const response = await axios.get("/api/today", {
     params,
@@ -20,16 +21,18 @@ export async function getTodayData(
   return response.data as TodayDataReturnType;
 }
 
-export default function useToday() {
+export default function useToday(current: string) {
   const [data, setData] = useState<Today | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [isError, setIsError] = useState(false);
   const [errorMessage, setErrorMessage] = useState("");
 
-  const fetchData = async () => {
-    const response = await getTodayData();
-    setData(response?.data);
-  };
+  const fetchData = useCallback(async () => {
+    if (current) {
+      const response = await getTodayData(current);
+      setData(response?.data);
+    }
+  }, [current]);
 
   useEffect(() => {
     fetchData()
@@ -38,7 +41,7 @@ export default function useToday() {
         setErrorMessage(err.message);
       })
       .finally(() => setIsLoading(false));
-  }, []);
+  }, [current, fetchData]);
 
   return { data, isLoading, isError, errorMessage };
 }

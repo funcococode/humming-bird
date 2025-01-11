@@ -1,5 +1,6 @@
 import { db } from "@/server/db";
 import { NextResponse, type NextRequest } from "next/server";
+import { random } from "lodash";
 export interface Today {
   id: string;
   lyrics: string;
@@ -42,7 +43,8 @@ export async function GET(
       },
     });
 
-    const response = data?.[0] ?? null;
+    const randomIdx = random(data.length - 1);
+    const response = data?.[randomIdx] ?? null;
 
     return NextResponse.json({ data: response, message: "", success: true });
   }

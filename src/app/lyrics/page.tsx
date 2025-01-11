@@ -1,9 +1,12 @@
 "use client";
 import { useForm } from "react-hook-form";
 import axios from "axios";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Input from "@/components/form/input";
 import Textarea from "@/components/form/textarea";
+import useCategory from "@/hooks/use-category";
+import Select, { type Option } from "@/components/form/select";
+import useUser from "@/hooks/use-user";
 interface Fields {
   title: string;
   lyrics: string;
@@ -11,6 +14,11 @@ interface Fields {
   writer: string;
 }
 export default function LyricsPage() {
+  const { data: categoryData } = useCategory();
+  const { data: userData } = useUser();
+  const [categoryOptions, setCategoryOptions] = useState<Option[]>([]);
+  const [userOptions, setUserOptions] = useState<Option[]>([]);
+
   const { control, handleSubmit, reset } = useForm<Fields>({
     defaultValues: {
       category: "",
@@ -38,13 +46,39 @@ export default function LyricsPage() {
     }
   };
 
+  useEffect(() => {
+    if (categoryData?.length) {
+      setCategoryOptions(
+        categoryData.map((item) => ({ label: item.name, value: item.id })),
+      );
+    }
+  }, [categoryData]);
+
+  useEffect(() => {
+    if (userData?.length) {
+      setUserOptions(
+        userData.map((item) => ({ label: item.name, value: item.id })),
+      );
+    }
+  }, [userData]);
+
   return (
     <main className="flex flex-1 items-center justify-center">
       <form className="h-fit w-fit space-y-4 rounded-lg border bg-gray-50 p-4">
         <h1 className="font-semibold">Add Lyrics</h1>
         <Input control={control} name="title" />
-        <Input control={control} name="writer" />
-        <Input control={control} name="category" />
+        <Select
+          control={control}
+          name="writer"
+          options={userOptions}
+          label="Writer"
+        />
+        <Select
+          options={categoryOptions}
+          label="Category"
+          name="category"
+          control={control}
+        />
         <Textarea control={control} name="lyrics" className="" />
 
         <button

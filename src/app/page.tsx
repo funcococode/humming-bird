@@ -1,16 +1,6 @@
-"use client";
-import WritersContainer from "@/components/writers-container";
-import LyricsContainer from "@/components/lyrics-container";
+import { redirect } from "next/navigation";
 
-export default function HomePage() {
-  return (
-    <div className="flex flex-grow gap-2">
-      {/* <div className="">
-        <WritersContainer />
-      </div> */}
-      <div className="flex-1 flex-grow">
-        <LyricsContainer />
-      </div>
-    </div>
-  );
+export default async function HomePage() {
+  redirect("/today/poem");
+  return <></>;
 }

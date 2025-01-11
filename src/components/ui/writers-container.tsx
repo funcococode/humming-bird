@@ -3,7 +3,7 @@
 import axios from "axios";
 import { useCallback, useEffect, useState } from "react";
 import { useForm } from "react-hook-form";
-import Input from "./form/input";
+import Input from "../form/input";
 
 interface Writer {
   id: string;

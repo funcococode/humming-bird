@@ -9,7 +9,11 @@ export async function GET(request: NextRequest) {
     },
   });
 
-  return NextResponse.json(response);
+  return NextResponse.json({
+    data: response,
+    message: "success",
+    success: true,
+  });
 }
 
 export async function POST(request: NextRequest) {
