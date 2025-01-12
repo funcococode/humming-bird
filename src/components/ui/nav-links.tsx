@@ -1,17 +1,10 @@
 "use client";
 import { useNavStore } from "@/stores/useNavStore";
+import type { NavigationLink } from "@/types/common";
 import Link from "next/link";
-import { type ReactElement } from "react";
-
-interface Link {
-  label: string;
-  url: string;
-  icon?: ReactElement;
-  key: string;
-}
 
 interface Props {
-  links: Link[];
+  links: NavigationLink[];
 }
 
 export default function NavLinks({ links }: Props) {

@@ -1,0 +1,144 @@
+[
+  {
+    "name": "Adi Shankaracharya",
+    "period": "8th century CE",
+    "philosophy": "Advaita Vedanta"
+  },
+  {
+    "name": "Ramanuja",
+    "period": "11th century CE",
+    "philosophy": "Vishishtadvaita Vedanta"
+  },
+  {
+    "name": "Madhvacharya",
+    "period": "13th century CE",
+    "philosophy": "Dvaita Vedanta"
+  },
+  {
+    "name": "Gautama Buddha",
+    "period": "5th-4th century BCE",
+    "philosophy": "Buddhism"
+  },
+  { "name": "Mahavira", "period": "6th century BCE", "philosophy": "Jainism" },
+  {
+    "name": "Chanakya",
+    "period": "4th century BCE",
+    "philosophy": "Arthashastra, political philosophy"
+  },
+  {
+    "name": "Swami Vivekananda",
+    "period": "19th century CE",
+    "philosophy": "Neo-Vedanta"
+  },
+  { "name": "Kabir", "period": "15th century CE", "philosophy": "Sant Mat" },
+  {
+    "name": "Mirabai",
+    "period": "16th century CE",
+    "philosophy": "Bhakti movement"
+  },
+  {
+    "name": "Ramakrishna Paramahamsa",
+    "period": "19th century CE",
+    "philosophy": "Bhakti, Advaita Vedanta"
+  },
+  {
+    "name": "Sri Aurobindo",
+    "period": "20th century CE",
+    "philosophy": "Integral Yoga"
+  },
+  {
+    "name": "Rabindranath Tagore",
+    "period": "19th-20th century CE",
+    "philosophy": "Humanism"
+  },
+  {
+    "name": "Jiddu Krishnamurti",
+    "period": "20th century CE",
+    "philosophy": "Freedom and self-inquiry"
+  },
+  {
+    "name": "Dr. B.R. Ambedkar",
+    "period": "20th century CE",
+    "philosophy": "Dalit Buddhism"
+  },
+  {
+    "name": "Dayananda Saraswati",
+    "period": "19th century CE",
+    "philosophy": "Arya Samaj, Vedic revivalism"
+  },
+  {
+    "name": "Chaitanya Mahaprabhu",
+    "period": "15th century CE",
+    "philosophy": "Gaudiya Vaishnavism"
+  },
+  {
+    "name": "Basava",
+    "period": "12th century CE",
+    "philosophy": "Lingayatism"
+  },
+  {
+    "name": "Nagarjuna",
+    "period": "2nd century CE",
+    "philosophy": "Madhyamaka (Buddhism)"
+  },
+  {
+    "name": "Patanjali",
+    "period": "2nd century BCE",
+    "philosophy": "Yoga Sutras, Yoga philosophy"
+  },
+  {
+    "name": "Kapila",
+    "period": "6th century BCE",
+    "philosophy": "Samkhya philosophy"
+  },
+  {
+    "name": "Vatsyayana",
+    "period": "4th century CE",
+    "philosophy": "Nyaya Sutras"
+  },
+  {
+    "name": "Charvaka",
+    "period": "6th century BCE",
+    "philosophy": "Materialism, Lokayata"
+  },
+  {
+    "name": "Bhaskaracharya",
+    "period": "12th century CE",
+    "philosophy": "Mathematics and Astronomy"
+  },
+  {
+    "name": "Udayana",
+    "period": "10th century CE",
+    "philosophy": "Nyaya-Vaisheshika"
+  },
+  {
+    "name": "Jayanta Bhatta",
+    "period": "9th century CE",
+    "philosophy": "Nyaya"
+  },
+  {
+    "name": "Bhartrihari",
+    "period": "5th century CE",
+    "philosophy": "Grammar and Philosophy of Language"
+  },
+  {
+    "name": "Sankara Deva",
+    "period": "15th century CE",
+    "philosophy": "Bhakti (Vaishnavism)"
+  },
+  {
+    "name": "Tulsidas",
+    "period": "16th century CE",
+    "philosophy": "Ramcharitmanas, Bhakti"
+  },
+  {
+    "name": "Rajneesh (Osho)",
+    "period": "20th century CE",
+    "philosophy": "Spiritual awakening"
+  },
+  {
+    "name": "Pandit Deendayal Upadhyaya",
+    "period": "20th century CE",
+    "philosophy": "Integral humanism"
+  }
+]

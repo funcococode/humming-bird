@@ -1,0 +1,672 @@
+[
+  {
+    "first_name": "William",
+    "middle_name": "",
+    "last_name": "Shakespeare"
+  },
+  {
+    "first_name": "Ralph",
+    "middle_name": "Waldo",
+    "last_name": "Emerson"
+  },
+  {
+    "first_name": "Friedrich",
+    "middle_name": "",
+    "last_name": "Nietzsche"
+  },
+  {
+    "first_name": "Jean-Paul",
+    "middle_name": "",
+    "last_name": "Sartre"
+  },
+  {
+    "first_name": "Albert",
+    "middle_name": "",
+    "last_name": "Camus"
+  },
+  {
+    "first_name": "Oscar",
+    "middle_name": "",
+    "last_name": "Wilde"
+  },
+  {
+    "first_name": "Socrates",
+    "middle_name": "",
+    "last_name": ""
+  },
+  {
+    "first_name": "Plato",
+    "middle_name": "",
+    "last_name": ""
+  },
+  {
+    "first_name": "Aristotle",
+    "middle_name": "",
+    "last_name": ""
+  },
+  {
+    "first_name": "Emily",
+    "middle_name": "",
+    "last_name": "Dickinson"
+  },
+  {
+    "first_name": "Rainer",
+    "middle_name": "Maria",
+    "last_name": "Rilke"
+  },
+  {
+    "first_name": "Homer",
+    "middle_name": "",
+    "last_name": ""
+  },
+  {
+    "first_name": "Marcus",
+    "middle_name": "Aurelius",
+    "last_name": ""
+  },
+  {
+    "first_name": "John",
+    "middle_name": "",
+    "last_name": "Keats"
+  },
+  {
+    "first_name": "Walt",
+    "middle_name": "",
+    "last_name": "Whitman"
+  },
+  {
+    "first_name": "Percy",
+    "middle_name": "Bysshe",
+    "last_name": "Shelley"
+  },
+  {
+    "first_name": "F. Scott",
+    "middle_name": "",
+    "last_name": "Fitzgerald"
+  },
+  {
+    "first_name": "T.S.",
+    "middle_name": "",
+    "last_name": "Eliot"
+  },
+  {
+    "first_name": "Simone",
+    "middle_name": "de",
+    "last_name": "Beauvoir"
+  },
+  {
+    "first_name": "Lao",
+    "middle_name": "",
+    "last_name": "Tzu"
+  },
+  {
+    "first_name": "Henry",
+    "middle_name": "David",
+    "last_name": "Thoreau"
+  },
+  {
+    "first_name": "Confucius",
+    "middle_name": "",
+    "last_name": ""
+  },
+  {
+    "first_name": "Mark",
+    "middle_name": "",
+    "last_name": "Twain"
+  },
+  {
+    "first_name": "George",
+    "middle_name": "",
+    "last_name": "Orwell"
+  },
+  {
+    "first_name": "Virginia",
+    "middle_name": "",
+    "last_name": "Woolf"
+  },
+  {
+    "first_name": "Gabriel",
+    "middle_name": "Garcia",
+    "last_name": "Marquez"
+  },
+  {
+    "first_name": "Johann",
+    "middle_name": "Wolfgang",
+    "last_name": "von Goethe"
+  },
+  {
+    "first_name": "Karl",
+    "middle_name": "",
+    "last_name": "Marx"
+  },
+  {
+    "first_name": "Mahatma",
+    "middle_name": "",
+    "last_name": "Gandhi"
+  },
+  {
+    "first_name": "Thomas",
+    "middle_name": "",
+    "last_name": "Hobbes"
+  },
+  {
+    "first_name": "John",
+    "middle_name": "",
+    "last_name": "Locke"
+  },
+  {
+    "first_name": "Blaise",
+    "middle_name": "",
+    "last_name": "Pascal"
+  },
+  {
+    "first_name": "David",
+    "middle_name": "",
+    "last_name": "Hume"
+  },
+  {
+    "first_name": "Rumi",
+    "middle_name": "",
+    "last_name": ""
+  },
+  {
+    "first_name": "Gustave",
+    "middle_name": "",
+    "last_name": "Flaubert"
+  },
+  {
+    "first_name": "Hannah",
+    "middle_name": "",
+    "last_name": "Arendt"
+  },
+  {
+    "first_name": "Albert",
+    "middle_name": "Einstein",
+    "last_name": ""
+  },
+  {
+    "first_name": "S\u00f8ren",
+    "middle_name": "Kierkegaard",
+    "last_name": ""
+  },
+  {
+    "first_name": "Michel",
+    "middle_name": "Foucault",
+    "last_name": ""
+  },
+  {
+    "first_name": "Thomas",
+    "middle_name": "",
+    "last_name": "Jefferson"
+  },
+  {
+    "first_name": "Jacques",
+    "middle_name": "",
+    "last_name": "Derrida"
+  },
+  {
+    "first_name": "Arthur",
+    "middle_name": "",
+    "last_name": "Schopenhauer"
+  },
+  {
+    "first_name": "John",
+    "middle_name": "",
+    "last_name": "Stuart Mill"
+  },
+  {
+    "first_name": "Jean-Jacques",
+    "middle_name": "",
+    "last_name": "Rousseau"
+  },
+  {
+    "first_name": "Fyodor",
+    "middle_name": "",
+    "last_name": "Dostoevsky"
+  },
+  {
+    "first_name": "Oscar",
+    "middle_name": "",
+    "last_name": "Wilde"
+  },
+  {
+    "first_name": "Edgar",
+    "middle_name": "",
+    "last_name": "Allan Poe"
+  },
+  {
+    "first_name": "Emily",
+    "middle_name": "",
+    "last_name": "Bronte"
+  },
+  {
+    "first_name": "Dante",
+    "middle_name": "",
+    "last_name": "Alighieri"
+  },
+  {
+    "first_name": "William",
+    "middle_name": "",
+    "last_name": "Blake"
+  },
+  {
+    "first_name": "Terry",
+    "middle_name": "",
+    "last_name": "Pratchett"
+  },
+  {
+    "first_name": "C.S.",
+    "middle_name": "",
+    "last_name": "Lewis"
+  },
+  {
+    "first_name": "Margaret",
+    "middle_name": "",
+    "last_name": "Atwood"
+  },
+  {
+    "first_name": "Sylvia",
+    "middle_name": "",
+    "last_name": "Plath"
+  },
+  {
+    "first_name": "Thomas",
+    "middle_name": "",
+    "last_name": "Paine"
+  },
+  {
+    "first_name": "Jean-Paul",
+    "middle_name": "",
+    "last_name": "Sartre"
+  },
+  {
+    "first_name": "Franz",
+    "middle_name": "",
+    "last_name": "Kafka"
+  },
+  {
+    "first_name": "Charles",
+    "middle_name": "",
+    "last_name": "Darwin"
+  },
+  {
+    "first_name": "Herman",
+    "middle_name": "",
+    "last_name": "Melville"
+  },
+  {
+    "first_name": "George",
+    "middle_name": "",
+    "last_name": "Bernard Shaw"
+  },
+  {
+    "first_name": "Bertolt",
+    "middle_name": "",
+    "last_name": "Brecht"
+  },
+  {
+    "first_name": "Albert",
+    "middle_name": "",
+    "last_name": "Schweitzer"
+  },
+  {
+    "first_name": "Jean",
+    "middle_name": "",
+    "last_name": "Paul"
+  },
+  {
+    "first_name": "Ludwig",
+    "middle_name": "",
+    "last_name": "Wittgenstein"
+  },
+  {
+    "first_name": "Henrik",
+    "middle_name": "",
+    "last_name": "Ibsen"
+  },
+  {
+    "first_name": "Virginia",
+    "middle_name": "",
+    "last_name": "Woolf"
+  },
+  {
+    "first_name": "Johann",
+    "middle_name": "",
+    "last_name": "Sebastian Bach"
+  },
+  {
+    "first_name": "E.M.",
+    "middle_name": "",
+    "last_name": "Forster"
+  },
+  {
+    "first_name": "Jonathan",
+    "middle_name": "",
+    "last_name": "Swift"
+  },
+  {
+    "first_name": "Sigmund",
+    "middle_name": "",
+    "last_name": "Freud"
+  },
+  {
+    "first_name": "Toni",
+    "middle_name": "",
+    "last_name": "Morrison"
+  },
+  {
+    "first_name": "Michelangelo",
+    "middle_name": "",
+    "last_name": "Buonarroti"
+  },
+  {
+    "first_name": "Pablo",
+    "middle_name": "",
+    "last_name": "Neruda"
+  },
+  {
+    "first_name": "Milan",
+    "middle_name": "",
+    "last_name": "Kundera"
+  },
+  {
+    "first_name": "Adi",
+    "middle_name": "",
+    "last_name": "Shankaracharya",
+    "birth": "788 CE",
+    "death": "820 CE",
+    "period": "8th century CE",
+    "description": "Indian philosopher and theologian who consolidated the doctrine of Advaita Vedanta.",
+    "philosophy": "Advaita Vedanta"
+  },
+  {
+    "first_name": "Ramanuja",
+    "middle_name": "",
+    "last_name": "",
+    "birth": "1017 CE",
+    "death": "1137 CE",
+    "period": "11th century CE",
+    "description": "Indian theologian and philosopher known for Vishishtadvaita Vedanta.",
+    "philosophy": "Vishishtadvaita Vedanta"
+  },
+  {
+    "first_name": "Madhvacharya",
+    "middle_name": "",
+    "last_name": "",
+    "birth": "1238 CE",
+    "death": "1317 CE",
+    "period": "13th century CE",
+    "description": "Indian philosopher and proponent of Dvaita Vedanta.",
+    "philosophy": "Dvaita Vedanta"
+  },
+  {
+    "first_name": "Gautama",
+    "middle_name": "",
+    "last_name": "Buddha",
+    "birth": "563 BCE",
+    "death": "483 BCE",
+    "period": "5th-4th century BCE",
+    "description": "Spiritual leader and founder of Buddhism.",
+    "philosophy": "Buddhism"
+  },
+  {
+    "first_name": "Mahavira",
+    "middle_name": "",
+    "last_name": "",
+    "birth": "599 BCE",
+    "death": "527 BCE",
+    "period": "6th century BCE",
+    "description": "24th Tirthankara of Jainism, emphasizing non-violence and asceticism.",
+    "philosophy": "Jainism"
+  },
+  {
+    "first_name": "Chanakya",
+    "middle_name": "",
+    "last_name": "",
+    "birth": "350 BCE",
+    "death": "275 BCE",
+    "period": "4th century BCE",
+    "description": "Indian statesman and philosopher, author of Arthashastra.",
+    "philosophy": "Arthashastra, political philosophy"
+  },
+  {
+    "first_name": "Swami",
+    "middle_name": "",
+    "last_name": "Vivekananda",
+    "birth": "1863 CE",
+    "death": "1902 CE",
+    "period": "19th century CE",
+    "description": "Indian monk and philosopher who introduced Vedanta to the Western world.",
+    "philosophy": "Neo-Vedanta"
+  },
+  {
+    "first_name": "Kabir",
+    "middle_name": "",
+    "last_name": "",
+    "birth": "1440 CE",
+    "death": "1518 CE",
+    "period": "15th century CE",
+    "description": "Indian mystic poet and saint, associated with the Bhakti movement.",
+    "philosophy": "Sant Mat"
+  },
+  {
+    "first_name": "Mirabai",
+    "middle_name": "",
+    "last_name": "",
+    "birth": "1498 CE",
+    "death": "1547 CE",
+    "period": "16th century CE",
+    "description": "Indian poet and devotee of Krishna, part of the Bhakti movement.",
+    "philosophy": "Bhakti movement"
+  },
+  {
+    "first_name": "Ramakrishna",
+    "middle_name": "",
+    "last_name": "Paramahamsa",
+    "birth": "1836 CE",
+    "death": "1886 CE",
+    "period": "19th century CE",
+    "description": "Indian mystic and yogi, an influential figure in modern Hinduism.",
+    "philosophy": "Bhakti, Advaita Vedanta"
+  },
+  {
+    "first_name": "Sri",
+    "middle_name": "",
+    "last_name": "Aurobindo",
+    "birth": "1872 CE",
+    "death": "1950 CE",
+    "period": "20th century CE",
+    "description": "Indian philosopher, yogi, and freedom fighter, known for Integral Yoga.",
+    "philosophy": "Integral Yoga"
+  },
+  {
+    "first_name": "Rabindranath",
+    "middle_name": "",
+    "last_name": "Tagore",
+    "birth": "1861 CE",
+    "death": "1941 CE",
+    "period": "19th-20th century CE",
+    "description": "Indian poet, philosopher, and Nobel laureate in literature.",
+    "philosophy": "Humanism"
+  },
+  {
+    "first_name": "Jiddu",
+    "middle_name": "",
+    "last_name": "Krishnamurti",
+    "birth": "1895 CE",
+    "death": "1986 CE",
+    "period": "20th century CE",
+    "description": "Indian philosopher and speaker on freedom and self-inquiry.",
+    "philosophy": "Freedom and self-inquiry"
+  },
+  {
+    "first_name": "Dr.",
+    "middle_name": "B.R.",
+    "last_name": "Ambedkar",
+    "birth": "1891 CE",
+    "death": "1956 CE",
+    "period": "20th century CE",
+    "description": "Indian jurist, social reformer, and philosopher who revived Buddhism in India.",
+    "philosophy": "Dalit Buddhism"
+  },
+  {
+    "first_name": "Dayananda",
+    "middle_name": "",
+    "last_name": "Saraswati",
+    "birth": "1824 CE",
+    "death": "1883 CE",
+    "period": "19th century CE",
+    "description": "Indian philosopher and founder of the Arya Samaj movement.",
+    "philosophy": "Arya Samaj, Vedic revivalism"
+  },
+  {
+    "first_name": "Chaitanya",
+    "middle_name": "",
+    "last_name": "Mahaprabhu",
+    "birth": "1486 CE",
+    "death": "1534 CE",
+    "period": "15th century CE",
+    "description": "Indian saint and founder of the Gaudiya Vaishnavism tradition.",
+    "philosophy": "Gaudiya Vaishnavism"
+  },
+  {
+    "first_name": "Basava",
+    "middle_name": "",
+    "last_name": "",
+    "birth": "1134 CE",
+    "death": "1196 CE",
+    "period": "12th century CE",
+    "description": "Indian philosopher and social reformer, founder of Lingayatism.",
+    "philosophy": "Lingayatism"
+  },
+  {
+    "first_name": "Nagarjuna",
+    "middle_name": "",
+    "last_name": "",
+    "birth": "150 CE",
+    "death": "250 CE",
+    "period": "2nd century CE",
+    "description": "Indian Buddhist philosopher and founder of the Madhyamaka school.",
+    "philosophy": "Madhyamaka (Buddhism)"
+  },
+  {
+    "first_name": "Patanjali",
+    "middle_name": "",
+    "last_name": "",
+    "birth": "200 BCE",
+    "death": "150 BCE",
+    "period": "2nd century BCE",
+    "description": "Indian sage and author of the Yoga Sutras.",
+    "philosophy": "Yoga Sutras, Yoga philosophy"
+  },
+  {
+    "first_name": "Kapila",
+    "middle_name": "",
+    "last_name": "",
+    "birth": "600 BCE",
+    "death": "500 BCE",
+    "period": "6th century BCE",
+    "description": "Indian sage and founder of the Samkhya school of philosophy.",
+    "philosophy": "Samkhya philosophy"
+  },
+  {
+    "first_name": "Vatsyayana",
+    "middle_name": "",
+    "last_name": "",
+    "birth": "400 CE",
+    "death": "500 CE",
+    "period": "4th century CE",
+    "description": "Indian philosopher and author of the Nyaya Sutras.",
+    "philosophy": "Nyaya Sutras"
+  },
+  {
+    "first_name": "Charvaka",
+    "middle_name": "",
+    "last_name": "",
+    "birth": "600 BCE",
+    "death": "500 BCE",
+    "period": "6th century BCE",
+    "description": "Indian materialist philosopher who founded the Charvaka school.",
+    "philosophy": "Materialism, Lokayata"
+  },
+  {
+    "first_name": "Bhaskaracharya",
+    "middle_name": "",
+    "last_name": "",
+    "birth": "1114 CE",
+    "death": "1185 CE",
+    "period": "12th century CE",
+    "description": "Indian mathematician and astronomer.",
+    "philosophy": "Mathematics and Astronomy"
+  },
+  {
+    "first_name": "Udayana",
+    "middle_name": "",
+    "last_name": "",
+    "birth": "984 CE",
+    "death": "1040 CE",
+    "period": "10th century CE",
+    "description": "Indian philosopher of the Nyaya-Vaisheshika school.",
+    "philosophy": "Nyaya-Vaisheshika"
+  },
+  {
+    "first_name": "Jayanta",
+    "middle_name": "",
+    "last_name": "Bhatta",
+    "birth": "875 CE",
+    "death": "925 CE",
+    "period": "9th century CE",
+    "description": "Indian philosopher and logician of the Nyaya school.",
+    "philosophy": "Nyaya"
+  },
+  {
+    "first_name": "Bhartrihari",
+    "middle_name": "",
+    "last_name": "",
+    "birth": "450 CE",
+    "death": "510 CE",
+    "period": "5th century CE",
+    "description": "Indian philosopher and linguist.",
+    "philosophy": "Grammar and Philosophy of Language"
+  },
+  {
+    "first_name": "Sankara",
+    "middle_name": "",
+    "last_name": "Deva",
+    "birth": "1449 CE",
+    "death": "1568 CE",
+    "period": "15th century CE",
+    "description": "Indian saint and proponent of Bhakti Vaishnavism.",
+    "philosophy": "Bhakti (Vaishnavism)"
+  },
+  {
+    "first_name": "Tulsidas",
+    "middle_name": "",
+    "last_name": "",
+    "birth": "1532 CE",
+    "death": "1623 CE",
+    "period": "16th century CE",
+    "description": "Indian poet and author of the Ramcharitmanas.",
+    "philosophy": "Ramcharitmanas, Bhakti"
+  },
+  {
+    "first_name": "Rajneesh",
+    "middle_name": "",
+    "last_name": "(Osho)",
+    "birth": "1931 CE",
+    "death": "1990 CE",
+    "period": "20th century CE",
+    "description": "Indian spiritual leader and teacher.",
+    "philosophy": "Spiritual awakening"
+  },
+  {
+    "first_name": "Pandit",
+    "middle_name": "Deendayal",
+    "last_name": "Upadhyaya",
+    "birth": "1916 CE",
+    "death": "1968 CE",
+    "period": "20th century CE",
+    "description": "Indian philosopher and politician, known for Integral Humanism.",
+    "philosophy": "Integral humanism"
+  }
+]

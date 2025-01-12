@@ -1,14 +1,15 @@
-import { type InputHTMLAttributes } from "react";
+import type { BaseInputProps, PropsWithControl } from "@/types/form";
 import { Controller } from "react-hook-form";
-import type { FieldValues, FieldPath, Control } from "react-hook-form";
+import type { FieldValues, FieldPath } from "react-hook-form";
 
 interface Props<T extends FieldValues>
-  extends InputHTMLAttributes<HTMLInputElement> {
+  extends PropsWithControl<T>,
+    BaseInputProps {
   type?: string;
-  control: Control<T>;
   name: string;
   showLabel?: boolean;
 }
+
 export default function Input<T extends FieldValues>({
   type = "text",
   name,

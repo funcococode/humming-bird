@@ -1,6 +1,7 @@
 "use client";
 
-import { type SelectHTMLAttributes } from "react";
+import type { BaseSelectProps, Option, PropsWithControl } from "@/types/form";
+
 import {
   Controller,
   type FieldPath,
@@ -8,12 +9,9 @@ import {
   type FieldValues,
 } from "react-hook-form";
 
-export interface Option {
-  label: string;
-  value: string;
-}
 interface Props<T extends FieldValues>
-  extends SelectHTMLAttributes<HTMLSelectElement> {
+  extends PropsWithControl<T>,
+    BaseSelectProps {
   options: Option[];
   label: string;
   name: string;

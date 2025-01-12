@@ -5,8 +5,9 @@ import { useEffect, useState } from "react";
 import Input from "@/components/form/input";
 import Textarea from "@/components/form/textarea";
 import useCategory from "@/hooks/use-category";
-import Select, { type Option } from "@/components/form/select";
+import Select from "@/components/form/select";
 import useUser from "@/hooks/use-user";
+import type { Option } from "@/types/form";
 interface Fields {
   title: string;
   lyrics: string;

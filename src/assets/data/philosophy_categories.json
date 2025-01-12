@@ -1,0 +1,322 @@
+[
+  {
+    "category": "Metaphysics",
+    "description": "The study of the nature of existence, reality, and the universe."
+  },
+  {
+    "category": "Epistemology",
+    "description": "The branch of philosophy that deals with the nature, scope, and limitations of knowledge."
+  },
+  {
+    "category": "Ethics",
+    "description": "The study of moral values, principles, and rules governing human conduct."
+  },
+  {
+    "category": "Aesthetics",
+    "description": "The branch of philosophy that deals with the nature of beauty, art, and taste."
+  },
+  {
+    "category": "Logic",
+    "description": "The study of principles of valid reasoning, argumentation, and inference."
+  },
+  {
+    "category": "Political Philosophy",
+    "description": "The exploration of concepts such as justice, authority, liberty, and the role of government."
+  },
+  {
+    "category": "Philosophy of Science",
+    "description": "The study of the foundations, methods, and implications of the sciences."
+  },
+  {
+    "category": "Philosophy of Mind",
+    "description": "The study of consciousness, mental states, and the mind-body problem."
+  },
+  {
+    "category": "Philosophy of Language",
+    "description": "The study of the nature, origins, and usage of language."
+  },
+  {
+    "category": "Existentialism",
+    "description": "A philosophical movement that emphasizes individual freedom, choice, and the search for meaning."
+  },
+  {
+    "category": "Phenomenology",
+    "description": "The study of structures of experience and consciousness, focusing on the subjective nature of human experience."
+  },
+  {
+    "category": "Pragmatism",
+    "description": "A philosophical tradition that emphasizes the practical consequences of concepts and the role of experience in knowledge."
+  },
+  {
+    "category": "Deontology",
+    "description": "An ethical theory that emphasizes duties, rules, and obligations over consequences."
+  },
+  {
+    "category": "Utilitarianism",
+    "description": "A moral theory that suggests actions are right if they promote the greatest happiness for the greatest number."
+  },
+  {
+    "category": "Nihilism",
+    "description": "The belief that life lacks inherent meaning or value."
+  },
+  {
+    "category": "Absurdism",
+    "description": "The view that human efforts to find meaning in life are futile in the face of an indifferent universe."
+  },
+  {
+    "category": "Virtue Ethics",
+    "description": "An ethical theory that focuses on the development of virtuous character traits, rather than rules or consequences."
+  },
+  {
+    "category": "Relativism",
+    "description": "The belief that truth, morality, and values are not absolute but depend on context, culture, or individual perspectives."
+  },
+  {
+    "category": "Humanism",
+    "description": "A philosophical stance that emphasizes the dignity, worth, and autonomy of human beings."
+  },
+  {
+    "category": "Structuralism",
+    "description": "A theory in social sciences and philosophy that seeks to understand underlying structures that shape human behavior and society."
+  },
+  {
+    "category": "Objectivism",
+    "description": "A philosophy that emphasizes individual rights, self-interest, and rationality, particularly associated with Ayn Rand."
+  },
+  {
+    "category": "Fatalism",
+    "description": "The belief that events are predetermined and that human actions cannot change them."
+  },
+  {
+    "category": "Determinism",
+    "description": "The belief that every event or state of affairs is determined by preceding causes."
+  },
+  {
+    "category": "Transcendentalism",
+    "description": "A philosophical movement that emphasizes the inherent goodness of people and nature, and the importance of self-reliance."
+  },
+  {
+    "category": "Idealism",
+    "description": "The belief that reality is fundamentally mental or immaterial."
+  },
+  {
+    "category": "Materialism",
+    "description": "The belief that physical matter is the fundamental substance in nature, and all phenomena can be explained by interactions of matter."
+  },
+  {
+    "category": "Dualism",
+    "description": "The belief that mind and body, or mental and physical substances, are fundamentally distinct."
+  },
+  {
+    "category": "Monism",
+    "description": "The view that reality is ultimately unified and that all phenomena can be explained by a single substance or principle."
+  },
+  {
+    "category": "Taoism",
+    "description": "An ancient Chinese philosophy that emphasizes living in harmony with the Tao, the fundamental principle that is the source of all existence."
+  },
+  {
+    "category": "Feminist Philosophy",
+    "description": "A branch of philosophy that critiques traditional philosophical thought from a gendered perspective and seeks to understand the experiences of women."
+  },
+  {
+    "category": "Anarchism",
+    "description": "A political philosophy that advocates for the abolition of hierarchical structures, particularly the state."
+  },
+  {
+    "category": "Empiricism",
+    "description": "The theory that knowledge comes primarily from sensory experience and observation."
+  },
+  {
+    "category": "Rationalism",
+    "description": "The belief that reason and logic are the primary sources of knowledge, as opposed to sensory experience."
+  },
+  {
+    "category": "Hedonism",
+    "description": "A philosophical theory that emphasizes the pursuit of pleasure and happiness as the highest good."
+  },
+  {
+    "category": "Pessimism",
+    "description": "The belief that life is largely negative, characterized by suffering, hardship, and meaninglessness."
+  },
+  {
+    "category": "Social Contract Theory",
+    "description": "A theory in political philosophy that suggests individuals consent to form a government and adhere to its rules."
+  },
+  {
+    "category": "Cynicism",
+    "description": "A philosophy that advocates for self-sufficiency, rejecting social conventions, and living according to nature."
+  },
+  {
+    "category": "Stoicism",
+    "description": "An ancient Greek philosophy that emphasizes self-control, virtue, and rationality as a means to achieve tranquility and happiness."
+  },
+  {
+    "category": "Skepticism",
+    "description": "A philosophical position that questions the possibility of certainty in knowledge."
+  },
+  {
+    "category": "Absurdism",
+    "description": "A view that human efforts to find meaning are futile, as the universe is indifferent and meaningless."
+  },
+  {
+    "category": "Religious Philosophy",
+    "description": "A branch of philosophy that explores the nature and implications of religious beliefs, doctrines, and experiences."
+  },
+  {
+    "category": "Existential Psychology",
+    "description": "A field that combines existential philosophy and psychology, focusing on the human condition, free will, and the search for meaning."
+  },
+  {
+    "category": "Behaviorism",
+    "description": "A theory in psychology that asserts that all behaviors are learned through interactions with the environment, and can be understood without reference to internal mental states."
+  },
+  {
+    "category": "Legal Philosophy",
+    "description": "The study of the nature of law, its purposes, and its relationship to morality, justice, and society."
+  },
+  {
+    "category": "Analytic Philosophy",
+    "description": "A style of philosophy that emphasizes clarity and argumentative rigor, often through linguistic analysis."
+  },
+  {
+    "category": "Continental Philosophy",
+    "description": "A broad tradition of philosophy that includes movements like existentialism, phenomenology, and postmodernism, primarily in Europe."
+  },
+  {
+    "category": "Critical Theory",
+    "description": "A broad intellectual tradition that seeks to critique and change society, particularly its power structures and ideologies."
+  },
+  {
+    "category": "Postmodernism",
+    "description": "A philosophical movement that questions the assumptions of modernity, especially the concepts of objective truth and universal narratives."
+  },
+  {
+    "category": "Panpsychism",
+    "description": "The view that consciousness is a fundamental feature of the universe, and that everything has some form of consciousness."
+  },
+  {
+    "category": "Cosmology",
+    "description": "The study of the origin, structure, and nature of the universe, often blending metaphysical and scientific inquiry."
+  },
+  {
+    "category": "Philosophy of History",
+    "description": "The study of the nature and methodology of history, exploring questions about historical knowledge, progress, and meaning."
+  },
+  {
+    "category": "Pragmaticism",
+    "description": "An extension of pragmatism, focusing on the practical application of ideas and the role of logic in solving real-world problems."
+  },
+  {
+    "category": "Ethnophilosophy",
+    "description": "The study of philosophical ideas and traditions from different cultural and ethnic backgrounds."
+  },
+  {
+    "category": "Advaita Vedanta",
+    "description": "A non-dualistic system emphasizing the ultimate unity of the self (Atman) and the absolute (Brahman)."
+  },
+  {
+    "category": "Vishishtadvaita Vedanta",
+    "description": "A qualified non-dualistic system focusing on the inseparability of the soul and God while acknowledging individuality."
+  },
+  {
+    "category": "Dvaita Vedanta",
+    "description": "A dualistic philosophy that highlights the distinction between the individual soul and God."
+  },
+  {
+    "category": "Buddhism",
+    "description": "A spiritual philosophy emphasizing the Four Noble Truths and the Eightfold Path for liberation from suffering."
+  },
+  {
+    "category": "Jainism",
+    "description": "A philosophy advocating non-violence, self-discipline, and liberation through ascetic practices."
+  },
+  {
+    "category": "Political Philosophy",
+    "description": "A pragmatic approach to governance and statecraft as outlined in the Arthashastra."
+  },
+  {
+    "category": "Neo-Vedanta",
+    "description": "A modern interpretation of Vedantic thought combining spirituality with universal human values."
+  },
+  {
+    "category": "Sant Mat",
+    "description": "A spiritual movement focused on devotion to God through personal experience and inner realization."
+  },
+  {
+    "category": "Bhakti Movement",
+    "description": "A devotional movement emphasizing love and surrender to a personal deity."
+  },
+  {
+    "category": "Integral Yoga",
+    "description": "A spiritual practice aimed at integrating all aspects of life with the divine for personal and collective evolution."
+  },
+  {
+    "category": "Humanism",
+    "description": "A philosophy celebrating human dignity, creativity, and moral responsibility."
+  },
+  {
+    "category": "Freedom and Self-Inquiry",
+    "description": "A philosophy advocating personal freedom and the exploration of truth without reliance on tradition."
+  },
+  {
+    "category": "Dalit Buddhism",
+    "description": "A re-interpretation of Buddhism focusing on social equality and liberation from caste-based discrimination."
+  },
+  {
+    "category": "Vedic Revivalism",
+    "description": "A movement to restore and promote the principles and practices of the ancient Vedic tradition."
+  },
+  {
+    "category": "Gaudiya Vaishnavism",
+    "description": "A devotional philosophy focused on the worship of Krishna and the practice of Sankirtan (congregational chanting)."
+  },
+  {
+    "category": "Lingayatism",
+    "description": "A monotheistic philosophy advocating devotion to Lord Shiva and social reform."
+  },
+  {
+    "category": "Madhyamaka (Buddhism)",
+    "description": "A Buddhist philosophy emphasizing the concept of emptiness (Shunyata) and the middle path."
+  },
+  {
+    "category": "Yoga Philosophy",
+    "description": "A system emphasizing self-discipline, meditation, and the union of mind, body, and spirit."
+  },
+  {
+    "category": "Samkhya Philosophy",
+    "description": "An analytical system explaining reality through the interplay of consciousness (Purusha) and matter (Prakriti)."
+  },
+  {
+    "category": "Nyaya Sutras",
+    "description": "A logical and epistemological system emphasizing reasoning and debate as tools for understanding truth."
+  },
+  {
+    "category": "Materialism (Lokayata)",
+    "description": "A philosophy rejecting metaphysical constructs and emphasizing sensory perception and material existence."
+  },
+  {
+    "category": "Mathematics and Astronomy",
+    "description": "Philosophical contributions exploring mathematical principles and celestial mechanics."
+  },
+  {
+    "category": "Nyaya-Vaisheshika",
+    "description": "A combined system of logic and metaphysics explaining reality through atoms and categories."
+  },
+  {
+    "category": "Philosophy of Language",
+    "description": "A study of the nature, origin, and function of language in understanding reality."
+  },
+  {
+    "category": "Bhakti (Vaishnavism)",
+    "description": "A devotional path emphasizing love and surrender to Vishnu or Krishna."
+  },
+  {
+    "category": "Spiritual Awakening",
+    "description": "A contemporary approach encouraging self-awareness and breaking away from societal norms."
+  },
+  {
+    "category": "Integral Humanism",
+    "description": "A holistic philosophy emphasizing the balance between individual, social, and spiritual well-being."
+  }
+]
